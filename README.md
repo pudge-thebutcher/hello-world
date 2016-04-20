@@ -1,4 +1,4 @@
 # hello-world
 nigga
-sup' ya'll
+sup' ya'll\n
 this is a commit
